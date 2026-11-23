@@ -225,4 +225,4 @@ Have questions, suggestions, or want to report a bug? Join our official channels
 
 </div>
 
-[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hollywoodcontent1-dot/Leech/tree/main)
+[![Name](https://www.koyeb.com)](https://koyeb.com/deploy?template=https://github.com/hollywoodcontent1-dot/Leech/tree/main)
