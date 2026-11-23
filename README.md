@@ -224,3 +224,5 @@ Have questions, suggestions, or want to report a bug? Join our official channels
 <sub>Crafted with ❤️ by <b>TENKA IZUMO</b> for the <b>CantarellaBots</b> Community.</sub>
 
 </div>
+
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hollywoodcontent1-dot/Leech/tree/main)
